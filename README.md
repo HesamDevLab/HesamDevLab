@@ -1,11 +1,5 @@
 <div align="center">
-
-<img src="./logo.png" width="350">
-
-# HesamDevLab
-
-### Python Developer
-
+  <img src="logo.png" width="350">
 </div>
 Hi, I'm Hesam 👋
 
