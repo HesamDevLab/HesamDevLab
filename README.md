@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**HesamDevLab/HesamDevLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Hesam 👋
 
-Here are some ideas to get you started:
+Aspiring Python Developer | Founder of HesamDevLab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub!
+
+I'm Hesam, a beginner Python developer passionate about programming, problem-solving, web design, and building useful applications.
+
+🚀 Currently Learning
+
+- Python Programming
+- Problem Solving
+- Git & GitHub
+- Web Design & Development
+
+🛠️ Technologies
+
+- Python
+- GitHub
+
+📂 My Projects
+
+I'm building my programming portfolio one project at a time.
+
+More projects coming soon!
+
+🎯 My Goals
+
+- Become a professional software developer.
+- Learn web design and development.
+- Build modern and user-friendly websites.
+- Create real-world applications and useful digital products.
+
+---
+
+HesamDevLab | Learn. Build. Improve.
