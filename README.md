@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="350">
+  <img src="file_00000000d08c81f4834b8e38984fc3f2.png" width="350">
 </div>
 Hi, I'm Hesam 👋
 
